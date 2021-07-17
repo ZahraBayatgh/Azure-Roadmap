@@ -7,7 +7,7 @@ If you like this project, learn something or you are using it in your applicatio
 Welcome to the Git repo that is associated with the Azure roadmap
 **[Azure Roadmap](https://github.com/ZahraBayatgh/Azure-Roadmap/blob/master/Azure_Roadmap_90_Resolution.jpg)**
 published by [LinkedIn](https://www.linkedin.com/in/zahrabayat/).
-This image is Design a complicated web system with Azure.
+This image is design a complicated web system with Azure.
 
 | Azure Roadmap |
 | ------------|
